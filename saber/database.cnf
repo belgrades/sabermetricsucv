@@ -1,0 +1,5 @@
+[client]
+database = 'mlb_fer'
+user = 'belgrades'
+password = '230190fc'
+default-character-set = utf8
